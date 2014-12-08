@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HogwartsApp</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="characters_array">
+        <item>Harry</item>
+        <item>Ron</item>
+        <item>Dumbledore</item>
+        <item>Hermione</item>
+        <item>Malfoy</item>
+    </string-array>
+    <string-array name="drawer_images">
+        <item>@drawable/castle</item>
+        <item>@drawable/hognt</item>
+        <item>@drawable/hogwarts</item>
+        <item>@drawable/path</item>
+        <item>@drawable/planet</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="char_image">Character image here</string>
+    
+    <array name="harry_images"> 
+        <item>@drawable/harry1</item>
+        <item>@drawable/harry2</item>
+        <item>@drawable/harry3</item>
+        <item>@drawable/harry4</item>
+    </array>
+    
+    <array name="ron_images"> 
+        <item>@drawable/ron1</item>
+        <item>@drawable/ron2</item>
+        <item>@drawable/ron3</item>
+        <item>@drawable/ron4</item>
+    </array>
+    
+    <array name="hermione_images"> 
+        <item>@drawable/hermione1</item>
+        <item>@drawable/hermione2</item>
+        <item>@drawable/hermione3</item>
+        <item>@drawable/hermione4</item>
+    </array>
+    
+    <array name="dumbledore_images"> 
+        <item>@drawable/dumbledore1</item>
+        <item>@drawable/dumbledore2</item>
+        <item>@drawable/dumbledore3</item>
+        <item>@drawable/dumbledore4</item>
+    </array>
+    
+	<array name="malfoy_images"> 
+        <item>@drawable/malfoy1</item>
+        <item>@drawable/malfoy2</item>
+        <item>@drawable/malfoy3</item>
+        <item>@drawable/malfoy4</item>
+    </array>
+
+</resources>
