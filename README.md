@@ -7,8 +7,8 @@ DrawerWithAnimation
 
 <b>Screenshots:</b>
 
-<img src="Libraries\Pictures\anim.png">
+<img src="../Libraries/Pictures/anim.png">
 
-<img src="Libraries\Pictures\harry1.png">
+<img src="./Libraries/Pictures/harry1.png">
 
-<img src="Libraries\Pictures\harry2.png">
+<img src="Libraries/Pictures/harry2.png">
